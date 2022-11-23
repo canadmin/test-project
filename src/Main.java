@@ -27,5 +27,8 @@ public class Main {
 //            System.out.println(i);
 //        }
         System.out.println("bitti.");
+
+        System.out.println("Yeni geliştirme eklendi");
+
     }
 }

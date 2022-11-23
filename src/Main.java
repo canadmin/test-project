@@ -29,6 +29,6 @@ public class Main {
         System.out.println("bitti.");
 
         System.out.println("Yeni geliştirme eklendi");
-
+        System.out.println("Yeni bir geliştirme daha eklendi");
     }
 }
